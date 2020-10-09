@@ -2,8 +2,8 @@
 
 This is a quiz application using HTML, CSS, and Javascript. This application emphasizes the use of Javascript to provide quiz questions and collect user data to determine whether the answers to a question are correct, this then generates a score and appends a final page of results from the user data. 
 
-* [GitHub Repository]
-* [Deployed GitHub IO]
+* [GitHub Repository] https://github.com/smkraycs12/04_Code_Quiz
+* [Deployed GitHub IO] https://smkraycs12.github.io/04_Code_Quiz/
 
 ### Summary
 * HTML and CSS and Javascript documents create a quiz with multiple choice questions with Javascript trivia
